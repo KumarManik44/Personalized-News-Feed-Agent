@@ -4,28 +4,13 @@
 
 This project is an AI-powered **Personalized News Feed Agent** designed to recommend news articles tailored to individual user preferences. It blends **collaborative filtering** with **fine-tuned BERT embeddings** to deliver personalized news recommendations that adapt based on user interactions.
 
-✅ **Key Features:**
+**Key Features:**
 - Suggests relevant news articles based on user interaction data (simulated likes, clicks, etc.).
 - Extracts deep semantic features using Natural Language Processing (NLP).
 - Fine-tunes the BERT model to enhance content-based filtering.
 - Combines collaborative filtering and content-based approaches.
 - Continuously adapts to user preference changes over time.
 - Outputs a personalized feed of top 5–10 recommended articles with summaries.
-
----
-
-## Project Structure
-
-├── Data/
-│ ├── data.csv # Original raw dataset
-│ ├── sampled_data.csv # Sample of 1000 cleaned articles for quick testing
-│ └── (cleaned_data.csv not uploaded due to file size limits)
-├── Notebooks/
-│ ├── AI_Agent_1.ipynb # Exploratory Data Analysis & Cleaning
-│ ├── AI_Agent_2.ipynb # Fine-tuning BERT embeddings
-│ └── AI_Agent_3.ipynb # Generating recommendations
-├── README.md
-├── requirements.txt
 
 ---
 
