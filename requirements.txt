@@ -1,0 +1,17 @@
+# General
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP and Deep Learning
+transformers
+torch
+sentence-transformers
+
+# Progress bar (used in tokenization/fine-tuning)
+tqdm
+
+# Optional (if running in Jupyter)
+jupyter
